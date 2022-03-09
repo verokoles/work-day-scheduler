@@ -24,12 +24,12 @@
  * 
 
 <a name="steps"></a>
- ## 3. Steps
+ ## 3. Steps:ladder::
 
  <a name="link-to-my-page"></a>
- ## 4. Link To Project in My Github Pages:
+ ## 4. Link To Project in My Github Pages:octocat::
 
 <a name="help"></a>
-  ## 5. Helpful Links
+  ## 5. Helpful Links:link:
   
   
