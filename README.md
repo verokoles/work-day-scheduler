@@ -21,7 +21,7 @@
  * HTML
  * JavaScript
  * Bootstrap
- * 
+ * jQuery
 
 <a name="steps"></a>
  ## 3. Steps:ladder::
