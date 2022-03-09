@@ -4,6 +4,9 @@
  * Create a work day scheduling app 
  * So users can access it to log in goals for any given hour of the day
 
+ <a name="link-to-my-page"></a>
+ ## 4. Link To Project in My Github Pages:octocat::
+
   ## Table of Contents:
 1. [ Description ](#desc)
 2. [ Built With ](#built-with)
@@ -24,12 +27,15 @@
  * 
 
 <a name="steps"></a>
- ## 3. Steps
+ ## 3. Steps:ladder::
 
- <a name="link-to-my-page"></a>
- ## 4. Link To Project in My Github Pages:
 
 <a name="help"></a>
-  ## 5. Helpful Links
+  ## 5. Helpful Links:link:
   
-  
+  https://stackoverflow.com/questions/12970284/moment-js-24h-format
+
+https://stackoverflow.com/questions/10260667/jquery-get-parent-parent-id#:~:text=%24(this).-,parent().,id%20of%20the%20parent's%20parent
+
+https://www.w3schools.com/jsref/jsref_indexof_array.asp
+

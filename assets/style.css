@@ -10,8 +10,10 @@ textarea{
   resize: none;
   color: #000000;
   border-left: 1px solid grey;
-  padding: 10px;
   font-family: 'Radley', serif;
+  justify-content: space-between;
+  border-collapse: separate;
+  border-spacing: 10px;
 }
 .lead {
  color: gray;
@@ -30,7 +32,7 @@ textarea{
   padding-right: 45px;
   padding-left: 15px;
   margin-right: inherit;
-  margin-left: auto;
+  margin-left: 25px;
 }
 .col-6 col-md-2 {
   text-align:justify
@@ -63,12 +65,12 @@ textarea{
 }
 
 .present {
-  background-color: #f58781;
+  background-color: #568556;
   color: white;
 }
 
 .future {
-  background-color: #568556;
+  background-color: #f58781;
   color: white;
 }
 .button, select {
