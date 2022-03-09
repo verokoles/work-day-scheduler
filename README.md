@@ -2,7 +2,7 @@
 
 ## Purpose❗
  * Create a work day scheduling app 
- * So users can access it to log in goals for any given hour of the day
+ * So users can access it to log in goals for any hour of the work day
 
   ## Table of Contents:
 1. [ Description ](#desc)
