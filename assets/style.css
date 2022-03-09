@@ -1,0 +1,92 @@
+body {
+  font-size: 16px;
+  line-height: 1;
+  font-family: 'Corben', serif;
+}
+
+textarea{
+  background: rgb(238, 226, 226);
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid grey;
+  padding: 10px;
+  font-family: 'Radley', serif;
+}
+.lead {
+ color: gray;
+}
+
+.jumbotron {
+  text-align: center;
+  background: rgb(247, 236, 236);;
+  color: black;
+  border-radius: 0;
+  border-bottom: 3px solid black;
+
+}
+.container {
+  width: 100%;
+  padding-right: 45px;
+  padding-left: 15px;
+  margin-right: inherit;
+  margin-left: auto;
+}
+.col-6 col-md-2 {
+  text-align:justify
+}
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 45px;
+
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 30px;
+  border-top: 5px solid white;;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #c5bdbd;
+  color: white;
+}
+
+.present {
+  background-color: #f58781;
+  color: white;
+}
+
+.future {
+  background-color: #568556;
+  color: white;
+}
+.button, select {
+  overflow: visible;
+  border-radius: 200px;
+  background-color: #c5bdbd;
+  font-family: inherit;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #b0ced4;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
