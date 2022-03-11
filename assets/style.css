@@ -4,9 +4,8 @@ body {
   font-family: 'Corben', serif;
 }
 
-textarea{
-  background: rgb(238, 226, 226);
-  border: none;
+textarea {
+  border:#000000;
   resize: none;
   color: #000000;
   border-left: 1px solid grey;
@@ -32,7 +31,7 @@ textarea{
   padding-right: 45px;
   padding-left: 15px;
   margin-right: inherit;
-  margin-left: 25px;
+  margin-left: 350px;
 }
 .col-6 col-md-2 {
   text-align:justify
@@ -44,39 +43,49 @@ textarea{
 .time-block{
   text-align: center;
   border-radius: 45px;
+  margin-left: 100px; 
 
 }
 
 .row {
   white-space: pre-wrap;
-  height: 30px;
-  border-top: 5px solid white;;
+  height: 55px;
+  border-top: 5px solid whitesmoke;
+
 }
 
 .hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
+  background-color: gray;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px;
+  border-radius: 150px;
+  justify-content: space-around;
+  border-radius: 45px;
+  text-align: center;
 }
 
 .past {
   background-color: #c5bdbd;
   color: white;
+  padding: 5px;
 }
 
 .present {
-  background-color: #568556;
+  background-color: #5e8f5e;
   color: white;
+  padding: 5px;
 }
 
 .future {
-  background-color: #f58781;
+  background-color: #d8746f;
   color: white;
+  padding: 5px;
 }
 .button, select {
   overflow: visible;
   border-radius: 200px;
-  background-color: #c5bdbd;
+  background-color: rgb(238, 226, 226);
   font-family: inherit;
 }
 
@@ -84,7 +93,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #b0ced4;
+  background: rgb(238, 226, 226);
   color: white;
 }
 
