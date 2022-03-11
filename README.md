@@ -2,7 +2,10 @@
 
 ## Purpose❗
  * Create a work day scheduling app 
- * So users can access it to log in goals for any given hour of the day
+ * So users can access it to log in goals for any hour of the work day
+
+ <a name="link-to-my-page"></a>
+ ## 4. Link To Project in My Github Pages:octocat::
 
  <a name="link-to-my-page"></a>
  ## 4. Link To Project in My Github Pages:octocat::
@@ -24,11 +27,12 @@
  * HTML
  * JavaScript
  * Bootstrap
- * 
+ * jQuery
 
 <a name="steps"></a>
  ## 3. Steps:ladder::
 
+<<<<<<< HEAD
 
 <a name="help"></a>
   ## 5. Helpful Links:link:
@@ -39,3 +43,12 @@ https://stackoverflow.com/questions/10260667/jquery-get-parent-parent-id#:~:text
 
 https://www.w3schools.com/jsref/jsref_indexof_array.asp
 
+=======
+ <a name="link-to-my-page"></a>
+ ## 4. Link To Project in My Github Pages:octocat::
+
+<a name="help"></a>
+  ## 5. Helpful Links:link:
+  
+  
+>>>>>>> 7a66b12a1debdefe1daf8ee86b38b0ee47f489b1
