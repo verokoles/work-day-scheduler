@@ -5,7 +5,7 @@
  * So users can access it to log in goals for hour of their work day
 
  <a name="link-to-my-page"></a>
- ## 1. Link To Project in My Github Pages:octocat::
+ ## 1. Link To Project in My Github Pages:octocat:
 
   ## Table of Contents:
 1. [ GitHub ](#link-to-my-page)
@@ -28,7 +28,7 @@
  * jQuery
 
 <a name="steps"></a>
- ## 4. Steps:ladder::
+ ## 4. Steps:ladder:
 
 
 <a name="help"></a>
