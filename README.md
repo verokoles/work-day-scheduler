@@ -4,15 +4,18 @@
  * Create a work day scheduling app 
  * So users can access it to log in goals for hour of their work day
 
- <a name="link-to-my-page"></a>
- ## 1. Link To Project in My Github Pages:octocat::
 
-  ## Table of Contents:
+ *   ## Table of Contents:
 1. [ GitHub ](#link-to-my-page)
 2. [ Description ](#desc)
 3. [ Built With ](#built-with)
 4. [ Steps ](#steps)
 5. [ Helpful Links ](#help)
+
+ <a name="link-to-my-page"></a>
+ ## 1. Link To Project in My Github Pages:octocat::
+
+
 
 
 <a name="desc"></a>
