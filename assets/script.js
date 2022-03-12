@@ -1,6 +1,6 @@
 $(document).ready(function () {
     //using moment.js to generate time and write on html
-    $("#currentDay").text(moment().format("MMMM Do YYYY, HH:mm:ss")); 
+    $("#currentDay").text(moment().format("MMMM Do YYYY, HH:mm")); 
 //when user clicks save
     $(".savBtn").on("click", function () {
         //get nearby values.
@@ -8,6 +8,7 @@ $(document).ready(function () {
         var text = $(this).siblings(".userInput").val(); // taken the change from the sibling html description attribute
         var time = $(this).parent().attr("id"); // taken the change from the parent html id attribute
          console.log(time);
+         
         //set items in local storage.
         localStorage.setItem(time, text);
         //pull from localStorage
