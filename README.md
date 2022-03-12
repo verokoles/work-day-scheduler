@@ -5,7 +5,7 @@
  * So users can access it to log in goals for hour of their work day
 
 
- *   ## Table of Contents:
+   ## Table of Contents:
 1. [ GitHub ](#link-to-my-page)
 2. [ Description ](#desc)
 3. [ Built With ](#built-with)
